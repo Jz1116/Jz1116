@@ -29,6 +29,7 @@
 ## My Stats
 
 ![Zhen's github stats](https://github-readme-stats.vercel.app/api?username=Jz1116)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jz1116)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##  🤝🏻 &nbsp;Connect with Me
