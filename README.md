@@ -27,9 +27,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## My Stats
-<p>
+
 ![Zhen's github stats](https://github-readme-stats.vercel.app/api?username=Jz1116)
-</p>
 
 
 ##  🤝🏻 &nbsp;Connect with Me
